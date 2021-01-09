@@ -21,12 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/blastoise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="blastoise" height="30" width="40" /></a>
-<a href="https://twitter.com/ashutosh1729" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashutosh1729" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashutosh-kumar-7b6077193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashutosh-kumar-7b6077193" height="30" width="40" /></a>
-<a href="https://fb.com/100004405381869" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="100004405381869" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_ashutosh_kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_am_ashutosh_kumar" height="30" width="40" /></a>
-<a href="https://discord.gg/Ashutosh Kumar#9976" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Ashutosh Kumar#9976" height="30" width="40" /></a>
+<a href="https://dev.to/blastoise" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="blastoise" /></a>
+<a href="https://twitter.com/ashutosh1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ashutosh1729" /></a>
+<a href="https://linkedin.com/in/ashutosh-kumar-7b6077193" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashutosh-kumar-7b6077193" /></a>
+<a href="https://fb.com/100004405381869" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="100004405381869" /></a>
+<a href="https://instagram.com/i_am_ashutosh_kumar" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="i_am_ashutosh_kumar" /></a>
+<a href="https://discord.gg/Ashutosh Kumar#9976" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Ashutosh Kumar#9976" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
