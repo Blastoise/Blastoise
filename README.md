@@ -35,6 +35,6 @@
 <h3 align="left">Github Statistics:</h3>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blastoise&show_icons=true&locale=en&langs_count=8&layout=compact&theme=radical" alt="blastoise" /></p>
-<br>
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=blastoise&show_icons=true&locale=en&theme=radical" alt="blastoise" /></p>
 
