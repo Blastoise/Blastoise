@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blastoise&label=Profile%20views&color=0e75b6&style=flat" alt="blastoise" /> </p>
 
-- 🔭 I’m currently working on [Awesome Bash Script](https://github.com/Blastoise/Awesome-Bash-Scripts)
+- 🔭 I’m currently working on [Groovy Music Player](https://github.com/Blastoise/Groovy-Music-Player)
 
-- 🌱 I’m currently learning **ReactJS, Spring Boot, React Native**
+- 🌱 I’m currently learning **ReactJS, Spring Boot, Flutter**
 
-- 👯 I’m looking to collaborate on [Awesome Bash Script](https://github.com/Blastoise/Awesome-Bash-Scripts)
+- 👯 I’m looking to collaborate on [Groovy Music Player](https://github.com/Blastoise/Groovy-Music-Player)
 
 - 👨‍💻 All of my projects are available at [https://blastoise.github.io/](https://blastoise.github.io/)
 
